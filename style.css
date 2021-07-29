@@ -1,0 +1,43 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background: #264653;
+}
+.p-font-weight{
+    font-weight: 300;
+}
+.p1-resize{
+    font-size: 14px;
+}
+.h1-resize{
+    font-weight: 600;
+}
+.p2-resize{
+    font-size: 16px;
+}
+/* image gray scale */
+.img-color{
+    filter: grayscale(100%);
+}
+.p-color{
+    color: #E76F51;
+}
+.card-p-style{
+    font-weight: 400;
+    font-size: 16px;
+    color: #6C6C6C;
+    line-height: 26px;
+}
+.btn:focus {
+    outline: none;
+  }
+  .text-resize{
+      font-family: 'Inter', sans-serif;
+  }
+  .h2-font-weight{
+      font-weight: 500;
+  }
+  .font-weight{
+      font-weight: 300;
+  }
