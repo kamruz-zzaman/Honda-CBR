@@ -1,18 +1,23 @@
+/* body stylizing */
 body{
     font-family: 'Poppins', sans-serif;
 }
+/* header stylizing */
 header{
     background: #264653;
 }
+/* Honda purches section paragraph tag font resize */
 .p-font-weight{
     font-weight: 300;
 }
 .p1-resize{
     font-size: 14px;
 }
+/* Honda purches section h1 tag resize */
 .h1-resize{
     font-weight: 600;
 }
+/* Honda purches section second p tag resize */
 .p2-resize{
     font-size: 16px;
 }
@@ -20,18 +25,18 @@ header{
 .img-color{
     filter: grayscale(100%);
 }
+/* everry heading span color  */
 .p-color{
     color: #E76F51;
 }
+/* client saying section paragraph resize */
 .card-p-style{
     font-weight: 400;
     font-size: 16px;
     color: #6C6C6C;
     line-height: 26px;
 }
-.btn:focus {
-    outline: none;
-  }
+/* start faq section paragaraph resize */
   .text-resize{
       font-family: 'Inter', sans-serif;
   }
@@ -41,3 +46,4 @@ header{
   .font-weight{
       font-weight: 300;
   }
+  /* end faq section paragaraph resize */
